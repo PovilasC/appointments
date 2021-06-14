@@ -1,0 +1,9 @@
+td.reserved{
+    cursor: pointer;
+}
+.reserved:hover{
+    background-color: lightgray;
+}
+.extraInfoAboutReservation{
+    display: none;
+}

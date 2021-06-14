@@ -1,0 +1,8 @@
+{
+  "moment_language": "en",
+  "port": 3000,
+  "company_name": "Doctor",
+  "yearsToFuture": 2,
+  "session_secret": "PhgTDrwHqhwfViv5MdqV",
+  "noInteractiveConsole": false
+}

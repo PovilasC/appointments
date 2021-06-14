@@ -1,0 +1,11 @@
+.table-primary{
+    font-weight: bold;
+    font-style: italic;
+}
+
+td.notReserved{
+    cursor: pointer;
+}
+.notReserved:hover{
+    background-color: lightgray;
+}
